@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Calculator, Users, Calendar, Euro } from 'lucide-react';
+import { Info, Calculator, Calendar } from 'lucide-react';
 
 export default function CalculadoraAtur() {
   const [dades, setDades] = useState({
